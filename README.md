@@ -73,4 +73,4 @@ uploads/
 ```
 
 ## Supported File Types
-- txt, png, jpg, jpeg, json
+- txt, png, jpg, jpeg, json, PDF
